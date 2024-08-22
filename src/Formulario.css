@@ -1,0 +1,87 @@
+
+
+h1{
+    margin-top: 0;
+    text-align: center;
+    color: brown;
+    font-family: calibri;
+    
+}
+
+h2{
+    color: brown;
+    font-family: calibri;
+}
+
+#boton{
+    margin-top: 1%;
+}
+
+#formulario{
+    text-align: center;
+    background-color: beige;   
+}
+
+#nombre{
+    margin-bottom: 0.5%;
+    font-weight: bold;
+
+}
+
+#nombre1{
+    margin-right: 0.5%;
+    font-family: calibri;
+}
+
+#edad{
+    margin-bottom: 0.5%;
+    font-weight: bold;
+}
+
+#edad1{
+    margin-right: 1.5%;
+    font-family: calibri;
+}
+
+#cedula{
+    margin-bottom: 0.5%;
+    font-weight: bold;
+}
+
+#cedula1{
+    margin-right: 0.8%;
+    font-family: calibri;
+}
+
+#sintomas{
+    margin-bottom: 0.5%;
+    margin-right: 0.7%;
+    font-weight: bold;
+    
+}
+
+#sintomas1{
+    margin-right: 0.5%;
+    font-family: calibri;
+}
+
+#diagnostico{
+    margin-bottom: 0.5%;
+    margin-right: 1%;
+    font-weight: bold;
+}
+
+#diagnostico1{
+    margin-right: 0.5%;
+    font-family: calibri;
+}
+
+#fecha{
+    margin-bottom: 0.5%;
+    font-weight: bold;
+}
+
+#fecha1{
+    margin-right: 0.5%;
+    font-family: calibri;
+}
